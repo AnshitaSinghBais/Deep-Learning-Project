@@ -1,5 +1,5 @@
 # Dataset details
-The dataset has been dowloaded from https://github.com/Cyvhee/SemEval2018-Task3/tree/master/datasets/train 
+The dataset has been downloaded from https://github.com/Cyvhee/SemEval2018-Task3/tree/master/datasets/train 
 * data.csv - dataset has no emojis and hashtags.
 * data with emoji.csv - dataset has emojis but no hashtags
 * data with hashtag and emoji.csv - dataset has both emojis and hashtags.
