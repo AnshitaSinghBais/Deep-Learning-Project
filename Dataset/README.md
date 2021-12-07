@@ -8,4 +8,4 @@ The size of the datset is 3817 and is 2 labelled dataset.
 The field of the dataset is as follows -
 * Label 0 - No Irony
 * Label 1 - Irony
-* Tweet text - The input sentence
+* Tweet text - The input tweet sentence
